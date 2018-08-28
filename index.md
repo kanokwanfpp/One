@@ -15,5 +15,5 @@
 # ประสบการณ์
 ฝึกจิตอาสา ช่วยดูแลน้องๆที่โรงเรียน ทำให้ได้ประสบการณ์ในการทำงานกับผู้คนแลกเปลี่ยนความคิดเห้นในการทำงาน
 
-![Image]()
+![Image](https://raw.githubusercontent.com/kanokwanfpp/One/master/40307336_1970659179661901_8958254842522894336_n.jpg)
 ![Image](https://raw.githubusercontent.com/kanokwanfpp/One/master/13468.jpg)
