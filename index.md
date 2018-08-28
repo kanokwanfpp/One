@@ -31,4 +31,4 @@
   สำนักพิมพ์ : นานมีบุ๊คส์
   หมวดหมู่ : นิยาย  นิยายแฟนตาซี
   
-  ![Image]()
+  ![Image](https://raw.githubusercontent.com/kanokwanfpp/One/master/9786160406722_3.jpg)
