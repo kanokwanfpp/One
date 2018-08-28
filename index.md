@@ -19,3 +19,4 @@
 ![Image](https://raw.githubusercontent.com/kanokwanfpp/One/master/13468.jpg)
 
 และเคยผ่านการเขียนโปรแกรมภาษา C#
+[Link](https://github.com/kanokwanfpp/One/blob/master/C-1.docx)
